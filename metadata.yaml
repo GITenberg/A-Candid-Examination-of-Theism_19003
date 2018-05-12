@@ -1,0 +1,46 @@
+_repo: A-Candid-Examination-of-Theism_19003
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Romanes, George John
+    aliases:
+    - Romanes, G. J.
+    - Romanes, George J.
+    - Romanes, G.-J.
+    birthdate: 1848
+    deathdate: 1894
+    gutenberg_agent_id: '7037'
+    url: http://www.gutenberg.org/2009/agents/7037
+    wikipedia: http://en.wikipedia.org/wiki/George_Romanes
+description: '"The following essay was written several years ago; but I have hitherto
+  refrained from publishing it, lest, after having done so, I should find that more
+  mature thought had modified the conclusions which the essay sets forth. Judging,
+  however, that it is now more than ever improbable that I shall myself be able to
+  detect any errors in my reasoning, I feel that it is time to present the latter
+  to the contemplation of other minds. It is desirable further to observe, that the
+  only reason why I publish this edition anonymously is because I feel very strongly
+  that, in matters of the kind with which the present essay deals, opinions and arguments
+  should be allowed to produce the exact degree of influence to which as opinions
+  and arguments they are entitled: they should be permitted to stand upon their own
+  intrinsic merits alone, and quite beyond the shadow of that unfair prejudication
+  which cannot but arise so soon as their author''s authority, or absence of authority,
+  becomes known. I have endeavoured in the following analysis to fix the precise standing
+  of the evidence in favour of the theory of Theism, when the latter is viewed in
+  all the flood of light which the progress of modern science--physical and speculative--has
+  shed upon it"--Preface.'
+gutenberg_issued: '2006-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theism'
+- !lcc 'BL'
+title: A Candid Examination of Theism
+url: http://www.gutenberg.org/ebooks/19003
